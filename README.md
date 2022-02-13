@@ -32,7 +32,7 @@ Execute this command to run tests:
 $ cd fizzbuzz/
 $ ./bin/phpunit
 or
-$ vendor/bin/phpunit 
+$ ./vendor/bin/phpunit 
 ```
 
  
